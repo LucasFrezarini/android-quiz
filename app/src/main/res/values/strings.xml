@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_score">Pontuação</string>
+    <string name="button_start_quiz">Responder Questionário</string>
+    <string name="button_next">Próximo</string>
+</resources>
